@@ -7,3 +7,4 @@
 5 Commited
 6 Creating new recipes (totally 3), adding jpeg files to images needed to recipes
 7 Connecting each recipe to index.html and commiting all
+8 This was entire project

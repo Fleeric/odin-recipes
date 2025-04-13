@@ -5,3 +5,5 @@
 4 In recipes folder created a new folder images, where I'll store all images that I used and created 3 recipes as html, 
   connected to index.html file
 5 Commited
+6 Creating new recipes (totally 3), adding jpeg files to images needed to recipes
+7 Connecting each recipe to index.html and commiting all
